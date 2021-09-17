@@ -3,70 +3,60 @@ const data= [
     {
         "img": "https://i.ibb.co/zm7S3WY/Sticky-Navigation.png",
         "title": "Sticky navigation",
-        "description": "We have a Navbar where when scrolling it will change from black to white.",
         "link": "https://boring-swirles-09397c.netlify.app",
         "id": 0
     },
     {
         "img": "https://i.ibb.co/X4h13NS/Rotationg-Navigation.jpg",
         "title": "Rotating navigation",
-        "description": "We have a menu icon and when you click it, the menu will be displayed and a rotation effect will be generated throughout the page. When closing it, the page returns to its initial state",
         "link": "https://clever-varahamihira-da52fe.netlify.app",
         "id": 1
     },
     {
         "img": "https://i.ibb.co/BwRtnmd/Split-Landing.jpg",
         "title": "Split landing",
-        "description": "We handle two images and when clicking one of them we will split the image with a total of 75% of the width of the page. The other image will remain constant at 25%.",
         "link": "https://clever-johnson-a3a38d.netlify.app",
         "id": 2
     },
     {
         "img": "https://i.ibb.co/jMPTbML/Sound-Board.jpg",
         "title": "Sound board",
-        "description": "We create different sound effects. By clicking on the button it will generate a sound and if I want to change the sound I can click on different button and the previous sound will be automatically silenced using the HTML audio tag.",
         "link": "https://affectionate-lamarr-62ed49.netlify.app",
         "id": 3
     },
     {
         "img": "https://i.ibb.co/wMD80DB/Scroll-Animation.jpg",
         "title": "Scroll animation",
-        "description": "In this project, when you scroll sections will be added to the page. They will be added from side to side starting with the left side then right.",
         "link": "https://unruffled-liskov-a27f2b.netlify.app",
         "id": 4
     },
     {
         "img": "https://i.ibb.co/0nXNZXt/Pokedex.jpg",
         "title": "Pokedex",
-        "description": "",
         "link": "https://ecstatic-keller-ddc254.netlify.app",
         "id": 5
     },
     {
         "img": "https://i.ibb.co/s5YyCJs/Progress-Steps.jpg",
         "title": "Progress steps",
-        "description": "We have a bar that contains numbers from 1-4. If the button is clicked it will increase in number until it reaches 4, it also gives us the facility to return with the previous button",
         "link": "https://unruffled-goldstine-18bcfb.netlify.app",
         "id": 6
     },
     {
         "img": "https://i.ibb.co/CPhm26k/Expandi-Cards.jpg",
         "title": "Expanding cards",
-        "description": " We have a background of 5 images with a title in the lower left corner. One of these is expanded and when you click on the one next to it, that one will expand and the others will shrink.",
         "link": "https://upbeat-morse-5b945d.netlify.app",
         "id": 7
     },
     {
         "img": "https://i.ibb.co/rFWcDSW/Nexflix-Menu.jpg",
         "title": "Netflix menu",
-        "description": "",
         "link": "https://elated-sammet-de2122.netlify.app",
         "id": 8
     },
     {
         "img": "https://i.ibb.co/r2X1ch6/Kinetic.jpg",
         "title": "Kinetic",
-        "description": "",
         "link": "https://pensive-hypatia-0bbcf3.netlify.app",
         "id": 9
     },
