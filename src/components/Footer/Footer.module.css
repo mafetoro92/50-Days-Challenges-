@@ -1,0 +1,30 @@
+.containerFooter {
+    background-color: #20c0d8;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    width: 30px;
+}
+
+.containerLinks {
+    display: flex;
+    justify-content: center;
+}
+
+P {
+    font-weight: bold
+}
+
+@media (max-width: 704px) {
+    p{
+        text-align: center;
+    }
+}

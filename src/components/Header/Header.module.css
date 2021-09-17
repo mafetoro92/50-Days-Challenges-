@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containerHeader {
+    background: #20c0d8;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    z-index: 999;
+}
+
+.logoHeader {
+    width: 120px;
+    height: 80px;
+}
+
+.title {
+    line-height: 70px;
+    font-weight: bold
+}
+
+input {
+    height: 40px;
+    margin-top: 20px;
+}
+
+@media (max-width: 704px) {
+    .containerHeader {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+    }
+}

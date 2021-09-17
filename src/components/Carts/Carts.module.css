@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@100&display=swap');
+* {
+    font-family: 'Azeret Mono', monospace;
+}
+
+.containerButton {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.deployLink {
+    background-color: #1f6ecb;
+    width: 50%;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.deployLink a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.titleProject {
+    text-align: center;
+    font-weight: bold;
+    border-radius: 20px;
+    transition: 3s;
+}
+
+.titleProject:hover {
+    background-color: #7cc1cc;
+}
+
+.containerP {
+    margin-top: 150px;
+    line-height: 45px;
+    padding: 30px;
+    background-color: #7cc1cc;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+@media (max-width: 704px) {
+    .containerP{
+        margin-top: 300px;
+    }
+}
